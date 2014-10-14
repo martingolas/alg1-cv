@@ -1,18 +1,18 @@
-# Øešení cvièení do pøedmìtu Algoritmy 1 (2014/2015)
-Tento repozitáø obsahuje øešení pro MS Visual Studio 2013, které je èlenìné na 
-projekty pøedstavující øešení pøíkladù z jednotlivıch cvièení.
+# Å˜eÅ¡enÃ­ cviÄenÃ­ do pÅ™edmÄ›tu Algoritmy 1 (2014/2015)
+Tento repozitÃ¡Å™ obsahuje Å™eÅ¡enÃ­ pro MS Visual Studio 2013, kterÃ© je ÄlenÄ›nÃ© na 
+projekty pÅ™edstavujÃ­cÃ­ Å™eÅ¡enÃ­ pÅ™Ã­kladÅ¯ z jednotlivÃ½ch cviÄenÃ­.
 
-Uvedenı kód pøedstavuje pouze jedno z monıch øešení a je psán s ohledem
-na zaèáteèníky v jazyce C++.
+UvedenÃ½ kÃ³d pÅ™edstavuje pouze jedno z moÅ¾nÃ½ch Å™eÅ¡enÃ­ a je psÃ¡n s ohledem
+na zaÄÃ¡teÄnÃ­ky v jazyce C++.
 
-## Pøíklady
-Zadaní jednotlivıch cvièení jsou dostupné zde:
+## PÅ™Ã­klady
+ZadanÃ­ jednotlivÃ½ch cviÄenÃ­ jsou dostupnÃ© zde:
 
-Cvièení  | URL
+CviÄenÃ­  | URL
 -------- | ---
-1  | http://homel.vsb.cz/~gol0011/alg1/cv1-priklady.txt1
-2  | http://homel.vsb.cz/~gol0011/alg1/cv2-priklady.txt1
-3  | http://homel.vsb.cz/~gol0011/alg1/cv3-priklady.txt1
-4  | http://homel.vsb.cz/~gol0011/alg1/cv4-priklady.txt1
+1  | http://homel.vsb.cz/~gol0011/alg1/cv1-priklady.txt
+2  | http://homel.vsb.cz/~gol0011/alg1/cv2-priklady.txt
+3  | http://homel.vsb.cz/~gol0011/alg1/cv3-priklady.txt
+4  | http://homel.vsb.cz/~gol0011/alg1/cv4-priklady.txt
 
-*Pøíklady byly øešeny na cvièeních vedenıch ve ètvrtek od 12:30 - 14:00 a 14:15 - 15:45.*
+*PÅ™Ã­klady byly Å™eÅ¡eny na cviÄenÃ­ch vedenÃ½ch ve Ätvrtek od 12:30 - 14:00 a 14:15 - 15:45.*
