@@ -14,5 +14,7 @@ Cvičení  | URL
 2  | http://homel.vsb.cz/~gol0011/alg1/cv2-priklady.txt
 3  | http://homel.vsb.cz/~gol0011/alg1/cv3-priklady.txt
 4  | http://homel.vsb.cz/~gol0011/alg1/cv4-priklady.txt
+5  | http://homel.vsb.cz/~gol0011/alg1/cv5-priklady.txt
+6  | http://homel.vsb.cz/~gol0011/alg1/cv6-priklady.txt
 
 *Příklady byly řešeny na cvičeních vedených ve čtvrtek od 12:30 - 14:00 a 14:15 - 15:45.*
